@@ -1,0 +1,11 @@
+numpy
+matplotlib
+pandas
+torch
+torchvision
+gymnasium
+swig
+gymnasium[box2d]
+mujoco
+gymnasium_robotics
+ipykernel
